@@ -15,3 +15,20 @@ C:\Users\emisch1114\source\repos\Save The Humans\Save The Humans\bin\Debug\Save 
 C:\Users\emisch1114\source\repos\Save The Humans\Save The Humans\bin\Debug\Save The Humans.application
 C:\Users\emisch1114\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe.manifest
 C:\Users\emisch1114\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans.application
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe.config
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe.manifest
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\bin\Debug\Save The Humans.application
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\bin\Debug\Save The Humans.pdb
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\Save The Humans.csprojAssemblyReference.cache
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\MainWindow.baml
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\MainWindow.g.cs
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\App.g.cs
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\Save The Humans_MarkupCompile.cache
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\Save The Humans.g.resources
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\Save_The_Humans.Properties.Resources.resources
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\Save The Humans.csproj.GenerateResource.cache
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe.manifest
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\Save The Humans.application
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe
+C:\Users\emisch1114\OneDrive - Stiftelsen Stockholms Stadsmission\Skrivbordet\Save The Humans\Save The Humans\obj\Debug\Save The Humans.pdb
