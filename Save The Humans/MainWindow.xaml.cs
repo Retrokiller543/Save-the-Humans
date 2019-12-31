@@ -28,6 +28,8 @@ namespace Save_the_Humans
         DispatcherTimer targetTimer = new DispatcherTimer();
         bool humanCaptured = false;
 
+        int currentScore = 0;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -55,6 +57,7 @@ namespace Save_the_Humans
                 humanCaptured = false;
                 startButton.Visibility = Visibility.Visible;
                 playArea.Children.Add(gameOverText);
+                MessageBox.Show("Oh No You Died! " + "\nYou Saved " + currentScore + "Humans!", "You Died!");
             }
         }
 
@@ -134,6 +137,8 @@ namespace Save_the_Humans
                 Canvas.SetTop(human, random.Next(100, (int)playArea.ActualHeight - 100));
                 humanCaptured = false;
                 human.IsHitTestVisible = true;
+                currentScore++;
+                scoreText.Text = "Score: " + currentScore;
             }
         }
 

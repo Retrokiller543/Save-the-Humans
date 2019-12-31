@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Save The Humans.exe" size="16344">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Save The Humans.exe" size="16856">
       <assemblyIdentity name="Save The Humans" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8fmqFAO96Qk4Ku02k/9TtNY+UiHXjE8XC3VEQ4orUUs=</dsig:DigestValue>
+        <dsig:DigestValue>RUSyEtGQYd6fm+jfrI1V3zRcSTtl9YymEctX2fIw6eY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
